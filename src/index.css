@@ -2,8 +2,9 @@ html {
 
   background-color: rgb(31, 161, 90);  
 }
-container-fluid{
-  background-color: darkslategrey;
+.container-fluid{
+  background-color: rgb(43, 172, 211);
+  
 }
 
 
